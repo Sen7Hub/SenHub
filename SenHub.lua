@@ -1,7 +1,6 @@
 local Window = Fluent:CreateWindow({
     Title = "Sen Hub",
-    SubTitle = "| Blox Fruits",
-        
+    SubTitle = "| Blox Fruits", 
 local Window = Fluent:CreateWindow({
     Title = "Sen Hub",
     SubTitle = "| Blox Fruits",
